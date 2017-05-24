@@ -9,6 +9,7 @@ npm start
 ```
 Run an app into iOS simulator
 scan the qr code with expo.io
+
 _Note: your phone will need to be on the same local network as this computer
 
 please visit https://expo.io
